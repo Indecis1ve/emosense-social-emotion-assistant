@@ -89,16 +89,23 @@ npm run dev
 ### 6. 项目结构 (Project Structure)
 
 ```markdown
-emosense/
-├── src/
-│   ├── components/    # UI 组件 (AnalysisDisplay, FileUpload 等)
-│   ├── utils/         # 工具函数 (Gemini API 调用逻辑)
-│   ├── App.jsx        # 主应用逻辑
-│   └── index.css      # Tailwind 样式入口
-├── public/            # 静态资源
-├── index.html         # 入口 HTML
-├── vite.config.js     # Vite 配置文件
-└── .env.local         # [需手动创建] API 密钥配置文件
+emosense-social-emotion-assistant/
+├── .env.local             # [需手动创建] API 密钥配置文件
+├── .gitignore             # Git 忽略文件配置
+├── App.tsx                # 主应用组件
+├── index.html             # 网页入口 HTML
+├── index.tsx              # 项目入口文件 (React DOM 挂载)
+├── metadata.json          # 项目元数据
+├── package.json           # 项目依赖配置
+├── README.md              # 项目说明文档
+├── tsconfig.json          # TypeScript 配置文件
+├── types.ts               # TypeScript 类型定义
+├── vite.config.ts         # Vite 配置文件
+├── components/            # UI 组件文件夹
+│   ├── AnalysisDisplay.tsx  # 分析结果展示组件
+│   └── LoadingSpinner.tsx   # 加载状态组件
+└── services/              # 服务层文件夹
+    └── geminiService.ts     # Gemini AI 调用逻辑
 ```
 ##  贡献 (Contributing)
 
