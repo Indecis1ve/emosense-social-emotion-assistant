@@ -1,0 +1,5 @@
+{
+  "name": "EmoSense: Social Emotion Assistant",
+  "description": "An accessibility-focused application helping visually impaired users analyze social interactions through multimodal AI, detecting hidden emotional cues and sarcasm.",
+  "requestFramePermissions": []
+}
