@@ -1,4 +1,4 @@
-<img width="1263" height="775" alt="image" src="https://github.com/user-attachments/assets/8f286c52-2ddd-4587-b3f9-0f66e8343022" />#  emosense-social-emotion-assistant
+<img width="1263" height="775" alt="image" src="https://github.com/user-attachments/assets/8f286c52-2ddd-4587-b3f9-0f66e8343022" />
 
 <div align="center">
   <p><strong>An AI-powered social interaction assistant for everyone.</strong></p>
@@ -46,10 +46,6 @@ EmoSense 是一款专为视障人士及需要社交辅助的用户设计的智�
 * **AI 模型**: Google Generative AI SDK (`@google/genai`)
 * **图标库**: Heroicons (Custom Components)
   
-##  界面 (UI)
-
-<img width="448.8" height="300" alt="927cb506d334c846ab9c4766cdfbe1d1" src="https://github.com/user-attachments/assets/72579531-209c-4a96-8711-8f82076a0bbf" />
-<img width="448.8" height="300" alt="image" src="https://github.com/user-attachments/assets/a022e4d9-abe3-436b-8508-70d1d2197673" />
 
 
 ## 🚀 快速开始 (Getting Started)
