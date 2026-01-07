@@ -62,10 +62,8 @@ git clone https://github.com/您的用户名/emosense-social-emotion-assistant.g
 
 ### 2. 安装依赖
 
-
-
+安装依赖，项目根目录下运行
 ```bash
-# 安装依赖，项目根目录下运行
 npm install
 ```
 
@@ -85,7 +83,7 @@ GEMINI_API_KEY=your_api_key_here
 npm run dev
 ```
 
-打开浏览器访问控制台输出的地址（通常是 http://localhost:5173）即可使用。
+打开浏览器访问控制台输出的地址 （通常是 http://localhost:5173） 即可使用。
 
 
 ### 6. 项目结构 (Project Structure)
